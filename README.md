@@ -15,5 +15,5 @@ World Data: \
   'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv' \
   'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/04-04-2020.csv' \
 State wise latest: \
-  'https://api.covid19india.org/data.json' \
+  'https://api.covid19india.org/data.json' 
   
