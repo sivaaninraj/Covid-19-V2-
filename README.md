@@ -1,10 +1,10 @@
 # Covid 19 V2
 ### This repository has answers to the below questions
-1.  Total number of COVID-19 cases in India till date\
-2.  State that is the most recent with COVID-19 case?\
-3.  Total number of active COVID-19 cases in India?\
-4.  Multiple visualization of COVID-19 in India with Iran\
-5.  Prophet to forecast the data for next 10 days with 97% confidence interval\
+1.  Total number of COVID-19 cases in India till date \
+2.  State that is the most recent with COVID-19 case? \
+3.  Total number of active COVID-19 cases in India? \
+4.  Multiple visualization of COVID-19 in India with Iran \
+5.  Prophet to forecast the data for next 10 days with 97% confidence interval \
 6.  Is trend of COVID-19 in India is similar to Iran?.Inference and Justification?
 
 ### Data:
